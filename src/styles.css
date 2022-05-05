@@ -1,1 +1,57 @@
-/* You can add global styles to this file, and also import other style files */
+.span-style {
+  font-size: 16px;
+}
+
+.h1-style{
+  font-size: 16px;
+  color:black;
+}
+
+.list-color{
+  color:rgb(0, 183, 255)
+}
+
+.image-size{
+  height: 10%;
+  width: 10%;
+}
+
+.head-style
+{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 80px;
+    width: 100%;
+    color:white;
+}
+
+.header img {
+  margin-top: 10px;
+  margin-left: 20px;
+  float: left;
+  width: 60px;
+  height: 60px;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+.color
+{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 80px;
+    width: 100%;
+    color:white;
+}
+
+.columnas-grises{
+  background-color: rgb(241, 241, 241);
+}
+
+.bold-font{
+  font-weight: bold;
+}
